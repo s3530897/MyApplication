@@ -1,0 +1,8 @@
+topic: ~raw()
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+# Replying to speech
+u:(~你是谁) ~我是生命管家
+u:(~你好) ~你好呀
+u:(~hello) ~hello
